@@ -72,6 +72,6 @@ function pair(cardOne , cardTwo){
             
             cardOne.classList.remove('turn') 
             cardTwo.classList.remove('turn') 
-        }, 1000);
+        }, 500);
     }
 }
