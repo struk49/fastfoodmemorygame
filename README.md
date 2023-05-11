@@ -30,4 +30,34 @@ NEST HUB MAX
 
 This app works on desktop too.
 
+Ive tested the game by playing the game, getting other people to play the game too. 
+To debug and test i used devTools, to check the code. 
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 14.42.43.png
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 14.53.18.png
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 15.00.03.png
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 15.01.16.png
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 15.15.09.png
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 15.15.25.png
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 15.15.41.png
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 15.16.01.png
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 15.16.01.png
+
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 15.16.28.png
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 15.16.50.png
+
+/workspace/fastfoodmemorygame/images/Screenshot 2023-05-11 15.17.03.png
+
+
+
 Enjoy the game.

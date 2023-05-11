@@ -3,6 +3,7 @@ const front = document.querySelectorAll('.front-card')
 const container = document.querySelector('.container')
 const score = document.querySelector('.score span')
 
+
 dealCards()
 clicking()
 function dealCards(){
@@ -14,9 +15,12 @@ function dealCards(){
         const random = Math.floor(Math.random()*card.length)
 
         c.style.order = num[random]
+        
     })
+
 }
 
+console.log()
 
 function clicking(){
 
@@ -28,11 +32,12 @@ function clicking(){
         setInterval(() => {
             front[i].classList.remove('see')
         }, 2000);
+        
 
         card[i].addEventListener('click' ,()=>{
-
             front[i].classList.add('turn')
            const lookCard= document.querySelectorAll('.turn')
+           
 
             if(lookCard.length == 2){
 
@@ -44,12 +49,15 @@ function clicking(){
                 }, 1000);
  
                 pair(lookCard[0] , lookCard[1])
+                
+                
             }
         })
     }
 }
+console.log(card)
 
-
+console.log()
 
 
 function pair(cardOne , cardTwo){
@@ -57,6 +65,7 @@ function pair(cardOne , cardTwo){
     if(cardOne.dataset.index == cardTwo.dataset.index){
 
         score.innerHTML = parseInt(score.innerHTML) + 1
+        console.log()
        
         cardOne.classList.remove('turn') 
         cardTwo.classList.remove('turn') 
@@ -73,5 +82,7 @@ function pair(cardOne , cardTwo){
             cardOne.classList.remove('turn') 
             cardTwo.classList.remove('turn') 
         }, 500);
+    
     }
 }
+console.log()
