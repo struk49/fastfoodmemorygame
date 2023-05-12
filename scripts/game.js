@@ -33,12 +33,12 @@ function clicking(){
             front[i].classList.remove('see')
         }, 2000);
         
-        
+        console.log(front[i])
 
         card[i].addEventListener('click' ,()=>{
             front[i].classList.add('turn')
            const lookCard= document.querySelectorAll('.turn')
-           
+            console.log(card[i])
 
             if(lookCard.length == 2){
 
@@ -58,7 +58,7 @@ function clicking(){
         })
     }
 }
-
+console.log()
 
 
 function pair(cardOne , cardTwo){
