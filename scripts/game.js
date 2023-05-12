@@ -20,7 +20,7 @@ function dealCards(){
 
 }
 
-console.log()
+
 
 function clicking(){
 
@@ -32,6 +32,7 @@ function clicking(){
         setInterval(() => {
             front[i].classList.remove('see')
         }, 2000);
+        
         
 
         card[i].addEventListener('click' ,()=>{
@@ -47,17 +48,17 @@ function clicking(){
                     
                     container.style.pointerEvents ='all'
                 }, 1000);
+                console.log()
  
                 pair(lookCard[0] , lookCard[1])
+                
                 
                 
             }
         })
     }
 }
-console.log(card)
 
-console.log()
 
 
 function pair(cardOne , cardTwo){
@@ -85,4 +86,3 @@ function pair(cardOne , cardTwo){
     
     }
 }
-console.log()
