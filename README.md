@@ -1,12 +1,16 @@
-Fast Food Mermory Game is my second portfoilo project for college. I have built a memory game using JavaScript, HTML and CSS. 
+#Fast Food Memory Game
 
-Scope of the project includes the features, the game app will have, like: A menu, Logo, Main image, score and footer. This game is for childeren of ages 4+ and above. 
-The Users (kids) will see the home page with the main image, menu bar and footer. I tries to design a game which is interactive in design and wasy to navigate. The color scheme is consistant through the app. The menu bar the same on all pages in the app. The user can easily navigate around the app and predict whats going to happen when he or she clicks on a link. The user can easily learn how to use the site at first glance and what the user needs to do to play the game or return to the home page is claerly visible. 
+
+
+*Fast Food Mermory Game is my second portfoilo project for college. I have built a memory game using JavaScript, HTML and CSS. *
+
+```Scope of the project includes the features, the game app will have, like: A menu, Logo, Main image, ```score -and footer. This game is for childeren of ages 4+ and above.```
+```The Users (kids) will see the home page with the main image, menu bar and footer. I tries to design a ```game which is interactive in design and wasy to navigate. The color scheme is consistant through the ```app. -The menu bar the same on all pages in the app. The user can easily navigate around the app and ```predict -whats going to happen when he or she clicks on a link. The user can easily learn how to use ```the site at -first glance and what the user needs to do to play the game or return to the home page is ```claerly  -visible. ```
 
 If the user can answer yes to these questions, i have acheived what i wanted to acheive. 
-1) Where am i?
-2)How did i get here?
-3) Where can i go from here?
+1. Where am i?
+2.How did i get here?
+3.Where can i go from here?
 
 I believe this app can be used with singal-trail learning. The app is easy to use and the user can see where a link will take them. 
 

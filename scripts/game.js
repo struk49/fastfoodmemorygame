@@ -1,3 +1,5 @@
+
+
 const card = document.querySelectorAll('.card')
 const front = document.querySelectorAll('.front-card')
 const container = document.querySelector('.container')
@@ -6,6 +8,8 @@ const score = document.querySelector('.score span')
 
 dealCards()
 clicking()
+
+
 function dealCards(){
 
 
@@ -16,7 +20,7 @@ function dealCards(){
 
         c.style.order = num[random]
         
-    })
+     })
 
 }
 
@@ -86,3 +90,5 @@ function pair(cardOne , cardTwo){
     
     }
 }
+
+module.exports = { dealCards }
