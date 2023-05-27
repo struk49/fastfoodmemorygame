@@ -91,8 +91,8 @@
 At the top there is a navigstion bar, each link on the navbar describes where each link take you. 
 
 ## Further testing 
-```The website has been tested on Google Chrome and Safari browsers. ``
-```The website and game was viewed and played on devices such as:``
+### The website has been tested on Google Chrome and Safari browsers. ``
+### The website and game was viewed and played on devices such as:``
 1. Iphone 13+
 2. Iphone 6
 3. Iphone XE
@@ -130,6 +130,63 @@ At the top there is a navigstion bar, each link on the navbar describes where ea
 ## image of the game on a moblie
 
 ![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/5f233d1e-95c7-41e7-a104-3584c35856f2)
+
+## Manual Testing
+### screenshot of landing page, on laptop. 
+
+[image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/3cb27a58-ad60-46aa-b759-9e639bb1a40b)
+
+## The navbar with links, can be easily read. As a first time user, i can see how to navigate the site and find what i'm looking for. 
+
+## Screenshot of game after i click the link. 
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/cf6cc973-13f4-444d-b00e-ac633e1705ca)
+
+### I clicked the link play again and the game loaded. 
+
+## Screenshot of user finding two matching cards
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/1c867dab-1310-4e1d-ae0d-b7c4bf641e54)
+
+### Screenshot of user picking cards that don't match
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/8657d2b1-0e32-4320-ab71-3530e25e8383)
+
+### screenshots of score 
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/fa1a9905-ed02-496c-9e7e-9993807ecf75)
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/4a5e5360-fdbb-4c7f-9f95-43b29668e08c)
+
+### crenshote of score when all cards are matched
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/e35e986b-77a5-491b-8d43-de5047a340cc)
+
+### the score function works and keeps the score.
+
+### Screenshot of all cards matched
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/c6376031-ad5d-4130-894e-c5ceb704e334)
+
+### screnshot of game restarting 
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/3a436aee-67b3-4abd-9784-34d4015c1d18)
+
+### when home link is click the link take me back to the home page
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/99af1cac-b1fe-4106-8efe-a31f8ae72332)
+
+### when math game link is clicked, the link takes me to a page which does not exist
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/312c8de0-3212-48bc-bfc3-d78fcda1b78e)
+
+### the page has a messagtelling the user the page dont exist and gives instructions of how to return to home page. 
+
+### screenshot of home page after user has been redirected
+
+![image](https://github.com/struk49/fastfoodmemorygame/assets/115653854/7f2f3042-07a3-460f-9657-3f799f3eac14)
+
+### The game works fine, all links work.
 
 #### Enjoy the game
 
